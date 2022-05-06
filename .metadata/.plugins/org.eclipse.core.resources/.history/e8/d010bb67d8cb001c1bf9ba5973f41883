@@ -1,0 +1,5 @@
+package com.te.finalmodule.java.employee.bean;
+
+public class EmployeeLeave {
+
+}
